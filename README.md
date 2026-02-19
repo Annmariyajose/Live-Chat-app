@@ -344,7 +344,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Your Name - Ann Mariya Brighto
 
 ## 🙏 Acknowledgments
 
@@ -355,7 +355,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue on GitHub.
+For support, annmariya907227@gmail.com or open an issue on GitHub.
 
 ## 🗺️ Roadmap
 
